@@ -1,17 +1,7 @@
 # 🕒 Time Tracking Web Application  
 A clean, beautifully designed web app that helps users log their daily activities (in minutes) and visually analyze how their 24 hours are spent each day.
 
----
 
-## 🚀 Live Demo  
-🔗 **Live App:** [CLICK HERE](YOUR_DEPLOYED_LINK)
-
----
-
-## 🎥 Video Walkthrough  
-📹 **2–5 min Demo Video:** [WATCH HERE](YOUR_VIDEO_LINK)
-
----
 
 ## 📌 Problem Statement  
 This application allows users to:
